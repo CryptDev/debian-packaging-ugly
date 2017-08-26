@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EduCoin
+Comment=EduCoin GUI wallet
+Exec=/usr/bin/EduCoin
+Terminal=false
+Type=Application
+Icon=EduCoin
+MimeType=x-scheme-handler/educoin;
+Categories=Office;
