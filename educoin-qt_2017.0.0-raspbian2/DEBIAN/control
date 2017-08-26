@@ -1,0 +1,9 @@
+Package: educoin-qt
+Version: 2017.0.0-raspbian1
+Architecture: armhf
+Maintainer: Unnamed <unnamed@unn.unn>
+Depends: libboost-filesystem1.49.0 (>= 1.49.0-1), libboost-program-options1.49.0 (>= 1.49.0-1), libboost-system1.49.0 (>= 1.49.0-1), libboost-thread1.49.0 (>= 1.49.0-1), libc6 (>= 2.13-28), libdb5.3++, libgcc1 (>= 1:4.4.0), libgles2-mesa (>= 7.8.1) | libgles2, libqt5core5a (>= 5.1.0), libqt5gui5 (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.2.0~alpha1), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6), libminiupnpc10 (>=1.9), libqt5webkit5 (>=5.3.2)
+Description: EduCoin is a disrupting cryptocurrency platform 
+ for cryptocurrency education.
+ .
+ This package provides educoin-Qt, a GUI wallet.
